@@ -1,0 +1,1 @@
+web: gunicord tuesday.wsgi --log-file -
